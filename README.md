@@ -29,3 +29,5 @@ It also doesn't draw. I took off work today to try and sort this thing out, but 
 I will be submiting what I have cobbled together, but I do plan on fixing this sob to get it to what I was planning. Even if I never use this engine again.
 At first, C# was a huge pain, then it started to grow on me. Then I spentmost of a day just tring to spin a picture, which will of course end up being excedingly simple.
 I'm not happy, but I'm not giving up.
+
+Also truth be told, I'm not sure how to run this. I bileve it will come down to clonning the repo in visual studio and running it there, but it could be a lot simpler.
